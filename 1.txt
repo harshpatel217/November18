@@ -1,2 +1,6 @@
 harsh is going to get a job by December in Bank of America
+<<<<<<< HEAD
 user 2 changed
+=======
+first user change
+>>>>>>> 7effe40fd0fcbae144bca2508ea9c027d5d79c12
